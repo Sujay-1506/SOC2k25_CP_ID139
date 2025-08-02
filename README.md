@@ -35,6 +35,40 @@ We have created a Codeforces group (**link : https://codeforces.com/group/5cfZbp
   - Classic search on sorted arrays
   - Lower and Upper Bounds
   - Binary Search on the Answer
+  - 
+### ✅ Week 5: Trees - Basics & Traversals
+- Introduction to Trees and Binary Trees
+- Terminologies: Node, Edge, Root, Leaf, Height, Depth, Subtree
+- Tree Representations: Adjacency List, Pointer-based
+- Traversals:
+  - Inorder, Preorder, Postorder (Recursive and Iterative)
+  - Level-order (BFS)
+  
+
+### ✅ Week 6: Binary Trees - Properties & Applications
+- Binary Search Trees (BST): Insert, Delete, Search
+- Balanced Trees and Height-Balanced Property
+- Lowest Common Ancestor (LCA)
+- Diameter of a Tree, Maximum Path Sum
 
 
+### ✅ Week 7: Graph Theory - BFS, DFS & Representations
+- Graph Types: Directed, Undirected, Weighted, Unweighted
+- Representation: Adjacency List and Matrix
+- Traversal Algorithms:
+  - Depth First Search (DFS)
+  - Breadth First Search (BFS)
+- Applications:
+  - Cycle Detection
+  - Connected Components
+
+
+### ✅ Week 8: Advanced Graph Concepts
+- Topological Sorting (DFS & Kahn’s Algorithm)
+- Bipartite Graph Check (BFS/DFS Coloring)
+- Shortest Path Algorithms:
+  - Dijkstra’s Algorithm
+  - Bellman-Ford (Intro only)
+- Introduction to Disjoint Set Union (Union-Find)
+- Advanced Graph Problem Practice
 
